@@ -187,3 +187,14 @@ Limitations
 - BERTScore truncation — answers were truncated to 120 words before BERTScore computation due to GPU constraints.
 
 ---
+
+References
+
+Dubey et al. (2024). The Llama 3 herd of models. arXiv:2407.21783
+Eminovic et al. (2026). Comparing performance of seven fine-tuned open-source LLMs in summarizing thrombectomy reports. European Radiology, 36, 3661–3675.
+Jiang et al. (2023). Mistral 7B. arXiv:2310.06825
+Muhetaer et al. (2025). Medical QA dialogue datasets in RAG systems. Scientific Reports, 15, 44467.
+Nadeau et al. (2024). Benchmarking Llama2, Mistral, Gemma and GPT for factuality, toxicity, bias and hallucination propensity. arXiv:2404.09785
+Cremaschi et al. (2025). Decoding the mind: A RAG-LLM on ICD-11 for decision support in psychology. Expert Systems with Applications, 279, 127191.
+Wan et al. (2024). Outpatient reception via collaboration between nurses and a large language model. Nature Medicine, 30(10), 2878–2885.
+Wang et al. (2025). Large language models in clinical psychiatry. World Journal of Psychiatry, 15(11), 108199.
